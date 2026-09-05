@@ -44,6 +44,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/', activeMatch: '/guide/' },
       { text: '部署', link: '/deploy/', activeMatch: '/deploy/' },
+      { text: '软件下载', link: '/downloads' },
     ],
 
     sidebar: {

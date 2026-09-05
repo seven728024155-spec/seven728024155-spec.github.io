@@ -35,4 +35,9 @@ features:
   - icon: ⚡
     title: 静态站点，加载快
     details: 首屏为预渲染 HTML，按需加载后续页面，可被 CDN 完整缓存。
+  - icon: 📦
+    title: 软件下载
+    details: 免安装的 Windows 桌面小工具，附 SHA256 校验值，下载链接直达 GitHub Releases。
+    link: /downloads
+    linkText: 前往下载
 ---
