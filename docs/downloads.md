@@ -11,7 +11,7 @@
 - **版本**：v1.0（2026-09-05）
 - **大小**：38.7 MB
 - **SHA256**：`5ab90df859e914946350863c017251ebba09e7fdc31f1ab5d4765baf180717ec`
-- **下载**：[民事执行利息计算器.exe](https://github.com/seven728024155-spec/seven728024155-spec.github.io/releases/download/v1.0/民事执行利息计算器.exe)
+- **下载**：[civil-interest-calculator.exe](https://github.com/seven728024155-spec/seven728024155-spec.github.io/releases/download/v1.0/civil-interest-calculator.exe)
 
 ## 民事执行利息计算器（离线版）
 
@@ -20,7 +20,7 @@
 - **版本**：v1.0（2026-09-05）
 - **大小**：38.7 MB
 - **SHA256**：`ed72d61c5a9b573879353b1bd0331788e6465ef3ed80d511281e16582cbbd80b`
-- **下载**：[民事执行利息计算器_离线版.exe](https://github.com/seven728024155-spec/seven728024155-spec.github.io/releases/download/v1.0/民事执行利息计算器_离线版.exe)
+- **下载**：[civil-interest-calculator-offline.exe](https://github.com/seven728024155-spec/seven728024155-spec.github.io/releases/download/v1.0/civil-interest-calculator-offline.exe)
 
 ## 图片压缩工具
 
@@ -29,9 +29,11 @@
 - **版本**：v1.0（2026-09-05）
 - **大小**：28.9 MB
 - **SHA256**：`beace394c5e3f53972972261be5dd4671ce8dbe0d027434de922331a11550493`
-- **下载**：[图片压缩工具.exe](https://github.com/seven728024155-spec/seven728024155-spec.github.io/releases/download/v1.0/图片压缩工具.exe)
+- **下载**：[image-compressor.exe](https://github.com/seven728024155-spec/seven728024155-spec.github.io/releases/download/v1.0/image-compressor.exe)
 
 ## 校验文件完整性
+
+下载后的文件为英文命名（`civil-interest-calculator` = 民事执行利息计算器，`civil-interest-calculator-offline` = 离线版，`image-compressor` = 图片压缩工具）。
 
 Windows 命令行（CMD 或 PowerShell）执行：
 
